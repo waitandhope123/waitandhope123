@@ -74,7 +74,11 @@ Much of this work exists to **stimulate imagination, provoke new lines of though
 ---
 
 ## 🛠 Methodology & Tooling
-Some of this work is developed with the assistance of large language models (including ChatGPT) as a **thinking aid, drafting accelerator, and structural sounding board**.
+Some of this work is developed with the assistance of multiple large language models (including ChatGPT and Claude) as **thinking aids, drafting accelerators, and structural sounding boards**.
+
+Different models are used deliberately to compare perspectives, stress-test reasoning, and reduce single-model bias.  
+AI is treated as a collaborator for exploration, not a source of authority.  
+All interpretations, frameworks, and conclusions are my own.
 
 AI is treated as a collaborator for exploration, not a source of authority.  
 All interpretations, frameworks, and conclusions are my own.
