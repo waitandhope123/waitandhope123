@@ -21,6 +21,7 @@ This profile is for **researchers, engineers, and independent thinkers** interes
 - **sbtr-framework** — Behavioral classification framework for strategic systems under tail-risk dominance and long planning horizons  
 - **scsm-tqec-persistence** — Identity persistence as topologically protected structure, using TQEC and open-system boundary dynamics  
 - **unidentified-aerial-reports-analysis** — Statistical analysis of ~125 years of civilian UAP reports against known phenomena and human perceptual limits  
+- **sintercite** — Hypothesized mineral protocells capable of passive self-replication through solar sintering cycles, offering a materials-based model for machine abiogenesis  
 
 ---
 
