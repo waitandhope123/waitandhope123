@@ -1,81 +1,95 @@
 # 👋 About Me
 
-I’m a theorist interested in **how systems work, where their limits are, and what emerges when they interact**.
+I’m a theorist focused on **how complex systems behave under constraint**, where their **failure modes** lie, and what **new structure emerges** when you push them to their limits.
 
-I like taking messy, high‑dimensional problems and:
-- Stripping them down to core invariants  
-- Turning those into explicit assumptions or axioms  
-- Stress‑testing them with edge cases, toy models, and self‑referential checks  
+My core workflow is invariant-first and adversarial:
 
-A big part of my workflow is using AI as a **mathematical and combinatorial amplifier**: I handle the conceptual structure, sanity checks, and “does this actually fit the system?”, while AI helps explore formal models, alternative framings, and failure modes.
+- Strip high-dimensional problems down to core constraints  
+- Make assumptions explicit and inspectable  
+- Stress-test ideas with edge cases, toy models, and self-reference  
+- Discard anything that survives only by vagueness  
 
-This profile is for **researchers, engineers, independent thinkers, and anyone who finds structured speculation and systems‑level thinking inspiring**.
+I use AI as a **combinatorial and formal exploration amplifier**, not an authority:
+I set the conceptual structure and sanity checks; AI helps traverse model space, generate alternatives, and probe failure modes faster than a human alone could.
+
+This profile is for **researchers, engineers, and independent thinkers** interested in structured speculation, falsifiability, and systems-level reasoning.
 
 ---
 
-## 🧠 Core Research & Framework Areas
+## 🧠 Core Research Domains
 
 ### 1. Physics, Cosmology & Fundamental Structure
 
-Speculative but structured explorations of spacetime, gravity, and underlying physical substrates. Recent work includes:
+I explore speculative but **constraint-driven** models of spacetime, gravity, and underlying physical substrates.
 
-- A framework that treats near‑death experience (NDE) invariants (tunnel imagery, persistence of identity, bidirectional “return”) as phenomenological constraints on any theory of consciousness.  
-- Converting those constraints into a substrate‑based model using tools from open quantum systems and topological / error‑correcting style reasoning (e.g., boundary transitions, stable identity carriers, leakage bounds).  
-- Building multiple toy models to see which axioms survive, get demoted, or break under adversarial assumptions.
+Recent work includes:
+- Treating near-death experience (NDE) invariants (identity persistence, tunnel structure, reversible boundary crossing) as *phenomenological constraints* rather than metaphysical claims.
+- Translating those constraints into substrate-based models using tools from open quantum systems, topology, and error-correcting logic.
+- Building adversarial toy models to see which axioms survive, collapse, or require explicit rejection.
 
-The emphasis is on **“speculative but falsifiable”**: if a model cannot, even in principle, be stressed or partially ruled out, it isn’t interesting to me.
+My rule here is simple:
 
----
-
-### 2. Cognition, Consciousness & Substrates
-
-Here I look at **what it would mean for consciousness or identity to be substrate‑bound yet robust across transitions**:
-
-- Treating reports like “consciousness surviving clinical death and returning with coherent memories” as data points that any serious theory must either explain or deliberately reject.  
-- Exploring how identity could behave like a conserved or protected quantity across different physical regimes, and what kinds of substrates could support that.  
-- Using AI to explore formalizations I wouldn’t write down by hand, while I keep control of which ideas are coherent, non‑trivial, and worth retaining.
-
-This work lives at the boundary of physics, cognitive science, and philosophy of mind, but is always grounded in **constraints, mechanisms, and edge cases**, not pure mysticism.
+> If a model cannot, even in principle, be stressed, bounded, or partially falsified, it is not interesting.
 
 ---
 
-### 3. Artificial Intelligence, Agents & Tooling
+### 2. Consciousness, Identity & Substrates
 
-I’m very interested in AI not just as a subject, but as a **co‑researcher**:
+I’m interested in what it would mean for **identity or conscious access** to be:
+- substrate-bound,
+- transition-robust,
+- and non-teleological.
 
-- Prototyping small agents and workflows that help analyze complex theories, check internal consistency, and generate toy models.  
-- Using AI to juggle more moving parts than a human comfortably can (multiple axioms, models, and scenarios), while I handle the higher‑level steering and “this is going off the rails” detection.  
-- Treating AI‑assisted reasoning itself as a system worth understanding: where it’s strong, where it fails, and how to structure prompts, repos, and experiments to get reliable results.
+This work focuses on:
+- Treating strong phenomenological reports as *data to constrain*, not truths to assume.
+- Exploring identity persistence as a structural or dynamical property (e.g., protected sectors, boundary conditions, leakage suppression).
+- Explicitly separating what is claimed, what is ruled out, and what remains undecidable.
 
-Many of my repos are experiments in **how to think with AI**, not just about AI.
+Nothing here relies on mysticism, revelation, or unfalsifiable ontology — everything lives or dies by coherence and constraints.
 
 ---
 
-### 4. Systems, Institutions & Constraints
+### 3. AI, Agents & AI-Assisted Theory Building
 
-Beyond physics and cognition, I’m drawn to **institutional and socio‑technical systems**:
+I treat AI not just as a tool, but as a **cognitive system worth studying**.
 
-- How constraints, incentives, and feedback loops shape the behavior of organizations, markets, and technologies.  
-- What emerges when you push these systems toward their edge cases or failure modes.  
-- How to design or re‑design systems so that they are more robust, transparent, or aligned with their stated goals.
+This includes:
+- Designing AI-assisted workflows for theory stress-testing and internal-consistency checks.
+- Using AI to explore formalizations, counter-models, and edge cases I wouldn’t brute-force manually.
+- Studying where AI reasoning fails, drifts, or hallucitates — and how to structure prompts, repos, and evaluation loops to mitigate that.
 
-The common thread is **systems‑level thinking**: whether it’s a physical theory, a mind, an AI workflow, or an institution, I’m interested in structure, trade‑offs, and limits.
+Many of my repositories are experiments in **how to think with AI**, not merely about AI.
+
+---
+
+### 4. Systems, Institutions & Constraint Dynamics
+
+I also work on **non-physical systems** with the same lens:
+- Institutions, governance, influence, and organizational design
+- Long-horizon behavior under tail risk
+- Failure modes driven by incentives, feedback, and coordination limits
+
+Whether the system is a theory, an AI workflow, or a human organization, the question is always:
+
+> What behavior does the structure *force*, and where does it break?
 
 ---
 
 ## 🔧 How I Work
 
-- **Concept‑first**: I’m not a heavy formalist. I rely on clear conceptual models and analogies first, then use AI and references to explore formal math or simulation where needed.  
-- **Repo‑driven**: GitHub is my thinking environment. Many repos are exploratory or partial, capturing ideas, notes, and prototypes as they evolve.  
-- **Adversarial refinement**: If something looks “too good”, I try to break it—by spawning more toy models, asking hard what‑ifs, or changing assumptions to see what survives.  
-- **Open to collaboration**: If you’re interested in consciousness substrates, AI‑assisted theory building, or unusual but structured system models, feel free to reach out or open an issue.
+- **Concept-first**: Clear structure before heavy formalism  
+- **Repo-driven thinking**: GitHub as a working lab, not a portfolio  
+- **Adversarial refinement**: If something looks elegant, I try to break it  
+- **Explicit scope control**: What a model claims, what it rejects, and what it refuses to speculate about  
+- **Open to collaboration**: Especially with people strong in formal math, simulation, or empirical testing
 
 ---
 
 ## 🌱 What I’m Looking For
 
-- People who are comfortable with **speculative topics + rigorous constraints**.  
-- Collaborators who can bring stronger formal math, simulation, or empirical methods to ideas that are currently mostly conceptual.  
-- Anyone curious about using AI as a serious partner in theory building, not just as a code or text generator.
+- Collaborators comfortable with **speculation + hard constraints**
+- People who enjoy killing ideas as much as building them
+- Researchers curious about AI as a serious partner in theory construction
+- Anyone interested in systems that behave *non-intuitively* once limits dominate
 
-If that sounds like you, explore the repos, and let’s see what emerges.
+If this resonates, explore the repositories — they’re the real map of how I think.
