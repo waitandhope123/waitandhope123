@@ -1,112 +1,90 @@
 # 👋 About Me
 
-I work on **how complex systems behave once constraints are made explicit**, with a focus on:
-- where systems *must* fail,
-- which structures are forced rather than chosen,
-- and what (if anything) remains stable under perturbation, noise, and regime change.
+I work on **General Relativity and gravitational theory**, with a focus on
+**where standard formulations fail**, which assumptions are load-bearing, and
+what structure survives once those assumptions are made explicit.
 
-My work is not idea-generation driven; it is **constraint-elimination driven**.
+My approach is adversarial and constraint-first:
+- Reduce gravitational models to minimal assumption sets
+- Localize approximations (symmetry, smoothness, locality, causality)
+- Stress-test GR at regime boundaries and failure surfaces
+- Treat breakdowns as primary data, not pathologies to hide
 
-Core operating principles:
-- Reduce models to minimal axiomatic cores
-- Localize assumptions and stress them independently
-- Actively kill variants via toy models and edge cases
-- Retain only structures that survive enforced constraints
-
-AI is used as a **combinatorial adversarial tool**, not an authority:
-I define invariants and failure criteria; AI accelerates counterexample generation, assumption audits, and model-space traversal.
+I am not developing speculative physics by declaration.
+I work strictly within **explicit constraints**, extending or modifying GR only
+where failure is demonstrable.
 
 ---
 
-## 📍 Core Research Axes (Load-Bearing Order)
+## 📍 Current Research Focus
 
-### 1. Constraint Mapping & Failure Manifolds (Meta-Core)
+### General Relativity Under Constraint
 
-A unifying thread across my work is the construction of **assumption-local failure maps**:
-frameworks designed to expose where theories collapse once hidden premises are isolated.
+My active work examines GR as a **regime-bound effective theory**, asking:
 
-This includes:
-- explicit null-hypothesis leakage detection
-- regime-boundary identification
-- documentation of killed variants
-- treating failure surfaces as primary research objects
+- Which assumptions are essential vs. inherited convenience
+- Where singularities, horizons, and global structure signal breakdown
+- How information, geometry, and dynamics interact at extreme regimes
+- What minimal extensions are *forced* once constraints are enforced
 
-If a framework cannot clearly state *how it fails*, it is considered underconstrained.
+Key themes include:
+- Failure manifolds of classical GR
+- Boundary conditions and global consistency
+- Regime transitions where geometric descriptions lose adequacy
+- Engineering-style feasibility analysis for extreme spacetime configurations
 
----
-
-### 2. Identity, Conscious Access & Persistence as Stabilized Structure
-
-Across NCFT, SCSM/CAL, and related work, identity and conscious access are treated as:
-
-- dynamically stabilized sectors,
-- enforced by constitutive constraints (e.g. projection / boundary conditions),
-- exhibiting single-attractor, gapped behavior,
-- explicitly non-teleological and non-interpretive.
-
-Phenomenological reports are treated strictly as **constraint inputs**, not ontological claims.
-Variants admitting pluralism, gradualism, or soft enforcement are explicitly tested and rejected.
-
-No metaphysical commitments are made beyond what the constraints force.
-
----
-
-### 3. Forced Behavior Under Tail Risk (Systems, Institutions, AI)
-
-In strategic, institutional, and AI systems, I study how:
-
-- long horizons and tail-risk dominance collapse strategy space,
-- incentives and constraints force behavior independent of intent,
-- coordination failures emerge as dynamical inevitabilities.
-
-This includes behavioral classification frameworks, AI oversight architectures, and institutional failure analysis, all treated with the same adversarial lens used in physical systems.
-
----
-
-### 4. Physics, Spacetime & Extreme Regimes (Instrumental)
-
-Work on emergent spacetime, gravity, and warp-drive-class engineering treats:
-
-- geometry as an effective or informational structure,
-- physical laws as regime-bound approximations,
-- engineering feasibility as a constraint problem, not speculation.
-
-These projects exist to probe **where known frameworks break**, not to posit unconstrained new physics.
+No appeal is made to anthropic reasoning, teleology, or unconstrained new physics.
 
 ---
 
 ## 🔧 Methodology
 
-- Axiom-first modeling
-- Toy models as primary falsification tools
-- Variant-killing over variant accumulation
-- Explicit documentation of negative results
-- Scope discipline enforced in advance
+- **Assumption-local analysis**: every approximation is tracked
+- **Failure-first reasoning**: breakdown precedes extension
+- **Toy models** to isolate single assumptions at a time
+- **Negative results documented explicitly**
+- **Scope discipline enforced in advance**
 
-Elegance is treated as suspect until stress-tested.
+Elegance is treated as suspect until it survives adversarial stress.
+
+---
+
+## 🧠 Intellectual Lineage (Archived Work)
+
+All non-GR repositories are archived.
+
+They remain as **methodological scaffolding**, not active research claims, and
+reflect earlier work on:
+- constraint mapping and failure manifolds,
+- stability and persistence under perturbation,
+- forced behavior in complex systems.
+
+These projects informed my current GR methodology but are no longer being extended.
 
 ---
 
 ## 🌱 Collaboration Fit
 
 Strong fit if you:
-- Enjoy breaking models more than defending them
-- Are comfortable discarding elegant ideas
-- Work in formal math, simulation, or rigorous empirical analysis
-- Treat AI as a system with failure modes
+- Work on GR, mathematical relativity, or gravitational theory
+- Care about failure modes, edge cases, and regime boundaries
+- Are comfortable discarding elegant ideas when constraints bite
+- Prefer adversarial analysis over interpretive flexibility
 
 Probably not a fit if you:
-- Seek validation of fixed theories
-- Prefer interpretive flexibility
-- Expect convergence without constraint enforcement
+- Seek speculative cosmology without falsifiers
+- Prefer narrative coherence over constraint enforcement
+- Expect unification without demonstrated breakdowns
+
+Most collaboration is asynchronous and depth-focused.
 
 ---
 
 ## 🔬 Scope Discipline
 
-High-risk topics are acceptable only when:
-- assumptions are explicit,
-- failure modes are enumerated,
-- and abandonment criteria are defined in advance.
+I pursue extensions of GR **only** when:
+- the failure is explicit,
+- the assumptions are localizable,
+- and the proposed modification is forced, not aesthetic.
 
 If a line of inquiry cannot be cornered, it is dropped.
