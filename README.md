@@ -7,7 +7,14 @@ I mean deliberately taking existing theories — especially those regarded as se
 “bulletproof” — trying to break them, and using those failures as data to infer what a
 viable underlying theory would *have* to look like.
 
-I am not primarily interested in proposing new theories.
+I both **construct theories** and **try to destroy them**.
+
+Theory-building, for me, is instrumental:  
+new frameworks are proposed explicitly as **test objects**—designed to surface hidden
+assumptions, expose failure modes, and clarify which structures are genuinely forced.
+No theory is treated as an endpoint or protected from adversarial testing, including my own.
+
+I am not interested in defending theories.  
 I am interested in **mapping failure surfaces**, reducing unconstrained degrees of freedom,
 and identifying which structures are actually *forced* once assumptions are made explicit.
 
@@ -25,6 +32,7 @@ Across all domains, my method is invariant-first and adversarial:
 - Localize assumptions and stress them independently
 - Actively probe for hidden, suppressed, or ignored failure modes
 - Identify regime boundaries where “robust” models rely on unstated constraints
+- Build provisional theories to test those boundaries directly
 - Map the neighborhood of failure to determine which structures are forced
 - Discard any framework that cannot clearly state how it breaks
 
@@ -36,7 +44,7 @@ assumption audits, and model-space traversal.
 
 ---
 
-## 📍 Core Program: Learning by Breaking Things
+## 📍 Core Program: Learning by Building and Breaking
 
 ### 1. Gravity, Cosmology & Gravitational Breakdown (Primary)
 
@@ -48,23 +56,24 @@ I treat **General Relativity as a regime-bound effective theory**, focusing on:
 **Dark matter and dark energy** are treated as *failure signals*:
 indicators that standard gravitational assumptions are insufficient.
 
-Rather than assuming new substances or fields, I ask:
-- Which assumptions force DM/DE to appear?
-- Which fixes merely relocate failure elsewhere?
-- What minimal structure survives across competing resolutions?
+I both analyze existing resolutions and construct minimal alternative models to test:
+- which assumptions force DM/DE to appear,
+- which fixes merely relocate failure elsewhere,
+- and what structure survives across competing repairs.
 
 ---
 
 ### 2. Quantum Physics at Its Stress Points
 
 I study **quantum mechanics and quantum field theory** as extraordinarily successful but
-structurally incomplete frameworks, with emphasis on:
-- Measurement, decoherence, and observer-dependence as constraint points
-- Limits of locality, separability, and classical causality
-- Hidden classical assumptions embedded in “complete” formalisms
-- Persistent tension between quantum structure and spacetime geometry
+structurally incomplete frameworks.
 
-Quantum theory is respected for its success, not exempt from failure analysis.
+Here, theory construction is used to:
+- isolate measurement, decoherence, and observer assumptions,
+- test limits of locality, separability, and causality,
+- probe compatibility with gravitational structure.
+
+Constructed models are treated as disposable probes, not interpretations.
 
 ---
 
@@ -73,54 +82,48 @@ Quantum theory is respected for its success, not exempt from failure analysis.
 I explore **modes of consciousness and conscious access** strictly as
 constraint-driven dynamical hypotheses.
 
-Method:
-- Treat phenomenological reports as constraints, not truths
-- Explicitly avoid ontological commitments
-- Stress-test plural, gradual, or interpretive variants
-- Use collapse, instability, or non-identifiability as eliminators
+I build and test models to determine:
+- which structural assumptions are necessary for coherence,
+- which variants collapse under perturbation,
+- and which features are artifacts of underconstraint.
 
-The goal is not explanation, but **coherence under pressure**.
+The goal is not explanation, but **survivability under pressure**.
 
 ---
 
 ### 4. Artificial Intelligence as a Failure-Rich Cognitive System
 
-I study AI systems as **engineered cognitive processes whose behavior is forced by constraints**:
-- Invariants and failure modes in learning, planning, and representation
-- Distribution shift, objective-induced collapse, and misgeneralization
-- Alignment and oversight as structural problems, not ethical narratives
+I study AI systems as **engineered cognitive processes whose behavior is forced by constraints**.
 
-AI systems also serve as fast, manipulable testbeds for probing theories of cognition,
-agency, and constraint.
+Here, theory-building takes the form of:
+- explicit models of learning, planning, and representation,
+- constructed failure cases under distribution shift,
+- architectural probes for alignment and corrigibility limits.
+
+AI systems serve both as subjects of theory and as rapid experimental platforms.
 
 ---
 
 ### 5. Theories of Everything as Boundary Objects
 
-I engage with **Theories of Everything** only as diagnostic tools for discovering where
-unification fails.
+I engage with **Theories of Everything** only by constructing and dismantling them.
 
-Rather than constructing totalizing frameworks, I examine:
-- Which assumptions unification attempts must share
-- Where gravity, quantum theory, cognition, and information diverge
-- Whether any invariant structure survives across non-coextensive domains
+Rather than aiming for total unification, I use ToE-like models to test:
+- which assumptions unification attempts must share,
+- where gravity, quantum theory, cognition, and information diverge,
+- whether any invariant structure survives across non-coextensive domains.
 
-A ToE that cannot specify its own failure surface is rejected as underconstrained.
+A theory that cannot specify its own failure surface is rejected as underconstrained.
 
 ---
 
 ### 6. Design Refinement Under Evolving Technology
 
-In parallel, I refine **designs and architectures** by re-solving constraints as
-technology evolves.
+In parallel, I refine **designs and architectures** by building and stress-testing
+candidate solutions under current technological constraints.
 
-This involves:
-- Identifying legacy assumptions invalidated by new capabilities
-- Updating designs when constraint surfaces shift
-- Stress-testing systems against present-day failure modes
-- Translating abstract constraints into implementable structures
-
-Design is treated as **applied failure analysis**, not feature accumulation.
+Designs are treated as theories with implementation:
+they are proposed, attacked, simplified, and either discarded or hardened.
 
 ---
 
@@ -128,6 +131,7 @@ Design is treated as **applied failure analysis**, not feature accumulation.
 
 - Failure-first reasoning
 - Assumption-local analysis
+- Theory construction as adversarial probing
 - Aggressive testing of “settled” or canonical models
 - Toy models and minimal counterexamples
 - Explicit documentation of negative results
@@ -153,15 +157,15 @@ They are not active research commitments.
 ## 🌱 Collaboration Fit
 
 Strong fit if you:
-- Enjoy breaking respected theories
-- Treat failure as information, not embarrassment
-- Are comfortable questioning orthodoxy
+- Enjoy both building and breaking theories
+- Treat your own models as disposable
+- See failure as information, not embarrassment
 - Prefer adversarial rigor over narrative elegance
 
 Probably not a fit if you:
-- Seek validation of speculative positions
-- Treat consensus as closure
-- Prefer metaphysical answers to structural ones
+- Seek to defend a favored framework
+- Treat theory construction as an act of belief
+- Prefer metaphysical closure over structural clarity
 - Expect foundational theories to be immune to stress
 
 ---
