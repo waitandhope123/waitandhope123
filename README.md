@@ -1,28 +1,42 @@
 # 👋 About Me
 
-I’m a theorist focused on **how complex systems behave under constraint**, where their **failure modes** lie, and what **new structure emerges** when you push them to their limits.
+I’m a theorist focused on **how complex systems behave under constraint**, where their **failure modes** lie, and what **new structure emerges** when systems are pushed to their limits.
 
 My core workflow is invariant-first and adversarial:
 
 - Strip high-dimensional problems down to core constraints  
-- Make assumptions explicit and inspectable  
-- Stress-test ideas with edge cases, toy models, and self-reference  
-- Discard anything that survives only by vagueness  
+- Make assumptions explicit, local, and inspectable  
+- Stress-test ideas with edge cases, toy models, and adversarial counterexamples  
+- Discard anything that survives only by vagueness, narrative closure, or semantic drift  
 
 I use AI as a **combinatorial and formal exploration amplifier**, not an authority:  
-I set the conceptual structure and sanity checks; AI helps traverse model space, generate alternatives, and probe failure modes faster than a human alone could.
+I define the conceptual structure and sanity checks; AI is used to traverse model space, generate alternatives, expose hidden assumptions, and probe failure modes faster than a human alone could.
 
 This profile is for **researchers, engineers, and independent thinkers** interested in structured speculation, falsifiability, and systems-level reasoning.
 
 ---
 
-## 📍 Start here
+## 📍 Start here (conceptual load-bearing order)
 
-- **sbtr-framework** — Behavioral classification framework for strategic systems under tail-risk dominance and long planning horizons  
-- **scsm-tqec-persistence** — Identity persistence as topologically protected structure, using TQEC and open-system boundary dynamics  
-- **unidentified-aerial-reports-analysis** — Statistical analysis of ~125 years of civilian UAP reports against known phenomena and human perceptual limits  
-- **sintercite** — Hypothesized mineral protocells capable of passive self-replication through solar sintering cycles, offering a materials-based model for machine abiogenesis  
-- **esfe-warp-drive-theory** — Warp drive engineering framework from emergent spacetime via entanglement manipulation, treating geometry as information structure  
+These projects reflect my *current* organizing structure; older work is retained where it continues to constrain or motivate later models.
+
+- **SBTR / BEAT / influence-risk-engine** — Behavioral classification of strategic systems under tail-risk dominance, long planning horizons, and asymmetric leverage. Focused on *forced behavior* rather than intent or values.
+
+- **RCTF / Constraint-Mapping Atlas / GR Failure Manifold** — Explicit assumption-local testing frameworks. Designed to surface hidden premises, null-hypothesis leakage, and regime-boundary failures in speculative and mainstream models alike.
+
+- **SCSM lineage (v11+) / CAL** — Conscious access and identity persistence treated as *structural sectors* stabilized by boundary conditions, leakage suppression, and protected dynamics. No teleology; no ontological commitments beyond what constraints force.
+
+- **NCFT / Relational Consciousness Tensor Field** — Non-local or field-like consciousness models explored strictly as constrained dynamical hypotheses, with explicit falsifiers and failure manifolds.
+
+- **ESI / EID / EMG / ESFE / NRCB** — Emergent spacetime and gravity treated as **information-elastic structures**, with geometry as an effective description. Includes warp-drive-class engineering explored only where constraints are explicit and stressable.
+
+- **WIDE** — Wake-inferred dark energy: extracting cosmological structure from dynamical imprints rather than postulated fields.
+
+- **Sintercite** — Materials-based protocell hypothesis: passive self-replication via solar sintering cycles as a non-biological abiogenesis pathway.
+
+- **Unidentified Aerial Reports Analysis / SEED** — Long-horizon anomaly analysis treating phenomenological reports as *data to constrain*, not truths to assume.
+
+- **Tri-Layer Cooperative AI Oversight / Institutional AI Reference Architecture** — AI deployment architectures emphasizing auditability, correction under distribution shift, and long-term institutional stability.
 
 ---
 
@@ -30,105 +44,94 @@ This profile is for **researchers, engineers, and independent thinkers** interes
 
 ### 1. Physics, Cosmology & Fundamental Structure
 
-I explore speculative but **constraint-driven** models of spacetime, gravity, and underlying physical substrates.
+I explore speculative but **constraint-driven** models of spacetime, gravity, and physical substrates.
 
-Recent work includes:
-- Studying how **materials and fields behave under extreme conditions**, where familiar approximations fail and new effective descriptions emerge.
-- Analyzing **phase transitions and regime boundaries**—identifying which structures survive, which collapse, and which are artifacts of limited perspective.
-- Probing **algorithmic and computational limits** in physical and mathematical systems, especially where complexity or irreversibility becomes dominant.
+Key themes:
+- Regime boundaries where familiar approximations fail
+- Phase transitions between effective descriptions
+- Information, elasticity, and topology as load-bearing structure
+- Explicit failure manifolds for GR-adjacent and post-GR models
 
-My rule here is simple:
-
+Rule:
 > If a model cannot, even in principle, be stressed, bounded, or partially falsified, it is not interesting.
 
 ---
 
 ### 2. Consciousness, Identity & Substrates
 
-I’m interested in what it would mean for **identity or conscious access** to be:
+I study what it would mean for **conscious access or identity persistence** to be:
 - substrate-bound,
 - transition-robust,
 - and non-teleological.
 
-This work focuses on:
-- Treating strong phenomenological reports as *data to constrain*, not truths to assume.
-- Exploring identity persistence as a structural or dynamical property (e.g., protected sectors, boundary conditions, leakage suppression) *(analogous to how topological protection works in quantum systems or how error correction preserves information in noisy channels)*.
-- Explicitly separating what is claimed, what is ruled out, and what remains undecidable.
+This work:
+- Treats strong phenomenological reports as *constraints*, not revelations
+- Explores identity as a protected or metastable structure (analogous to error-corrected or topologically protected sectors)
+- Explicitly separates what is claimed, what is ruled out, and what remains undecidable
 
-Nothing here relies on mysticism, revelation, or unfalsifiable ontology — everything lives or dies by coherence and constraints.
+No mysticism. No privileged ontology. Everything lives or dies by coherence and constraints.
 
 ---
 
 ### 3. AI, Agents & AI-Assisted Theory Building
 
-I treat AI not just as a tool, but as a **cognitive system worth studying**.
+I treat AI both as a tool and as a **system worth studying**.
 
 This includes:
-- Designing AI-assisted workflows for theory stress-testing and internal-consistency checks.
-- Using AI to explore formalizations, counter-models, and edge cases I wouldn’t brute-force manually.
-- Studying where AI reasoning fails, drifts, or hallucinates — and how to structure prompts, repos, and evaluation loops to mitigate that.
+- Designing AI-assisted workflows for adversarial theory testing
+- Using AI to generate countermodels, assumption audits, and edge cases
+- Mapping AI failure modes, drift, and self-reference breakdowns
 
-Many of my repositories are experiments in **how to think with AI**, not merely about AI.
+Many repositories are experiments in **how to think with AI**, not merely about AI.
 
 ---
 
 ### 4. Systems, Institutions & Constraint Dynamics
 
-I also work on **non-physical systems** with the same lens:
-- Institutions, governance, influence, and organizational design
+I apply the same lens to non-physical systems:
+- Institutions, governance, and coordination
 - Long-horizon behavior under tail risk
-- Failure modes driven by incentives, feedback, and coordination limits
+- Failure modes driven by incentives, feedback loops, and asymmetric leverage
 
-Whether the system is a theory, an AI workflow, or a human organization, the question is always:
-
+The invariant question:
 > What behavior does the structure *force*, and where does it break?
 
 ---
 
 ## 🔧 How I Work
 
-- **Concept-first**: Clear structure before heavy formalism  
+- **Concept-first**: structure before heavy formalism  
+- **Constraint maps** before narratives  
 - **Repo-driven thinking**: GitHub as a working lab, not a portfolio  
-- **Adversarial refinement**: If something looks elegant, I try to break it  
-- **Explicit scope control**: What a model claims, what it rejects, and what it refuses to speculate about  
-- **Open to collaboration**: Especially with people strong in formal math, simulation, or empirical testing  
+- **Adversarial refinement**: elegant ideas are presumed fragile  
+- **Explicit scope control**: what a model claims, rejects, and refuses to speculate about  
 
 ---
 
-## 🌱 What I'm Looking For
+## 🌱 Collaboration Fit
 
-**Collaboration format:**
-- Most collaboration happens asynchronously via GitHub issues, pull requests, and repo discussions.
-- I’m open to occasional sync calls when conceptual alignment is genuinely hard to resolve in text.
-- The best collaborations involve people who fork ideas, extend them, or actively try to break them with counterexamples.
-- I prefer working in public repositories when possible so others can observe, reuse, or build on the work.
+**Best fit if you:**
+- Are comfortable with speculation under hard constraints
+- Enjoy breaking models as much as building them
+- Have strengths in formal math, simulation, or empirical testing
+- Treat AI as a serious cognitive partner with failure modes
 
-**Strong fit if you:**
-- Are comfortable with speculation + hard constraints  
-- Enjoy killing ideas as much as building them  
-- Have expertise in [formal math / simulation / empirical testing]  
-- Are curious about AI as a serious partner in theory construction  
+**Probably not a fit if you:**
+- Want validation of fixed pet theories
+- Are uncomfortable discarding ideas that fail stress tests
+- Prefer polished outputs over exploratory work
 
-**Probably not a fit if:**
-- You’re looking for validation of a fixed pet theory rather than stress-testing it  
-- You’re uncomfortable discarding or heavily revising ideas that don’t survive scrutiny  
-- You need rapid responses, real-time collaboration, or tight coordination loops  
-- You prefer polished, finished outputs over messy exploratory work  
-
-**My bandwidth:**  
-I usually respond to substantive GitHub issues or comments within a few days. I’m not available for regular meetings or tight deadlines, and I tend to prioritize depth and quality of engagement over speed.
+Most collaboration is asynchronous via GitHub issues and PRs. Depth is prioritized over speed.
 
 ---
 
-## 🔬 High-Risk Explorations
+## 🔬 High-Risk, High-Constraint Explorations
 
-*I treat phenomenological reports the way physicists treat experimental anomalies—as constraints that models must explain or reject, not as mystical truths.*
-
-In some projects, this leads me to examine **edge-case data** that sit uncomfortably outside standard explanatory frameworks.
+I treat anomalies the way physicists treat experimental outliers: as pressures on models, not mystical signals.
 
 This includes:
-- Treating reports like “consciousness surviving clinical death and returning with coherent memories” as data points that any serious theory must either explain or deliberately reject.
-- Exploring how identity could behave like a conserved or protected quantity across different physical regimes, and what kinds of substrates could support that.
-- Using adversarial toy models to determine which assumptions are doing real work and which merely sound explanatory.
+- Examining edge-case phenomenology (e.g. reported post-clinical-death memory coherence) strictly as constraints
+- Testing whether identity could behave like a conserved or protected quantity across regime changes
+- Abandoning lines of inquiry that cannot be reduced to mechanisms, constraints, or falsifiers
 
-These explorations are explicitly high-risk and tightly scoped: if a line of inquiry cannot be reduced to constraints, mechanisms, or clear falsifiers, it is abandoned.
+If a path cannot be cornered, it is dropped.
