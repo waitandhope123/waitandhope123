@@ -1,137 +1,112 @@
 # 👋 About Me
 
-I’m a theorist focused on **how complex systems behave under constraint**, where their **failure modes** lie, and what **new structure emerges** when systems are pushed to their limits.
+I work on **how complex systems behave once constraints are made explicit**, with a focus on:
+- where systems *must* fail,
+- which structures are forced rather than chosen,
+- and what (if anything) remains stable under perturbation, noise, and regime change.
 
-My core workflow is invariant-first and adversarial:
+My work is not idea-generation driven; it is **constraint-elimination driven**.
 
-- Strip high-dimensional problems down to core constraints  
-- Make assumptions explicit, local, and inspectable  
-- Stress-test ideas with edge cases, toy models, and adversarial counterexamples  
-- Discard anything that survives only by vagueness, narrative closure, or semantic drift  
+Core operating principles:
+- Reduce models to minimal axiomatic cores
+- Localize assumptions and stress them independently
+- Actively kill variants via toy models and edge cases
+- Retain only structures that survive enforced constraints
 
-I use AI as a **combinatorial and formal exploration amplifier**, not an authority:  
-I define the conceptual structure and sanity checks; AI is used to traverse model space, generate alternatives, expose hidden assumptions, and probe failure modes faster than a human alone could.
-
-This profile is for **researchers, engineers, and independent thinkers** interested in structured speculation, falsifiability, and systems-level reasoning.
-
----
-
-## 📍 Start here (conceptual load-bearing order)
-
-These projects reflect my *current* organizing structure; older work is retained where it continues to constrain or motivate later models.
-
-- **SBTR / BEAT / influence-risk-engine** — Behavioral classification of strategic systems under tail-risk dominance, long planning horizons, and asymmetric leverage. Focused on *forced behavior* rather than intent or values.
-
-- **RCTF / Constraint-Mapping Atlas / GR Failure Manifold** — Explicit assumption-local testing frameworks. Designed to surface hidden premises, null-hypothesis leakage, and regime-boundary failures in speculative and mainstream models alike.
-
-- **SCSM lineage (v11+) / CAL** — Conscious access and identity persistence treated as *structural sectors* stabilized by boundary conditions, leakage suppression, and protected dynamics. No teleology; no ontological commitments beyond what constraints force.
-
-- **NCFT / Relational Consciousness Tensor Field** — Non-local or field-like consciousness models explored strictly as constrained dynamical hypotheses, with explicit falsifiers and failure manifolds.
-
-- **ESI / EID / EMG / ESFE / NRCB** — Emergent spacetime and gravity treated as **information-elastic structures**, with geometry as an effective description. Includes warp-drive-class engineering explored only where constraints are explicit and stressable.
-
-- **WIDE** — Wake-inferred dark energy: extracting cosmological structure from dynamical imprints rather than postulated fields.
-
-- **Sintercite** — Materials-based protocell hypothesis: passive self-replication via solar sintering cycles as a non-biological abiogenesis pathway.
-
-- **Unidentified Aerial Reports Analysis / SEED** — Long-horizon anomaly analysis treating phenomenological reports as *data to constrain*, not truths to assume.
-
-- **Tri-Layer Cooperative AI Oversight / Institutional AI Reference Architecture** — AI deployment architectures emphasizing auditability, correction under distribution shift, and long-term institutional stability.
+AI is used as a **combinatorial adversarial tool**, not an authority:
+I define invariants and failure criteria; AI accelerates counterexample generation, assumption audits, and model-space traversal.
 
 ---
 
-## 🧠 Core Research Domains
+## 📍 Core Research Axes (Load-Bearing Order)
 
-### 1. Physics, Cosmology & Fundamental Structure
+### 1. Constraint Mapping & Failure Manifolds (Meta-Core)
 
-I explore speculative but **constraint-driven** models of spacetime, gravity, and physical substrates.
-
-Key themes:
-- Regime boundaries where familiar approximations fail
-- Phase transitions between effective descriptions
-- Information, elasticity, and topology as load-bearing structure
-- Explicit failure manifolds for GR-adjacent and post-GR models
-
-Rule:
-> If a model cannot, even in principle, be stressed, bounded, or partially falsified, it is not interesting.
-
----
-
-### 2. Consciousness, Identity & Substrates
-
-I study what it would mean for **conscious access or identity persistence** to be:
-- substrate-bound,
-- transition-robust,
-- and non-teleological.
-
-This work:
-- Treats strong phenomenological reports as *constraints*, not revelations
-- Explores identity as a protected or metastable structure (analogous to error-corrected or topologically protected sectors)
-- Explicitly separates what is claimed, what is ruled out, and what remains undecidable
-
-No mysticism. No privileged ontology. Everything lives or dies by coherence and constraints.
-
----
-
-### 3. AI, Agents & AI-Assisted Theory Building
-
-I treat AI both as a tool and as a **system worth studying**.
+A unifying thread across my work is the construction of **assumption-local failure maps**:
+frameworks designed to expose where theories collapse once hidden premises are isolated.
 
 This includes:
-- Designing AI-assisted workflows for adversarial theory testing
-- Using AI to generate countermodels, assumption audits, and edge cases
-- Mapping AI failure modes, drift, and self-reference breakdowns
+- explicit null-hypothesis leakage detection
+- regime-boundary identification
+- documentation of killed variants
+- treating failure surfaces as primary research objects
 
-Many repositories are experiments in **how to think with AI**, not merely about AI.
-
----
-
-### 4. Systems, Institutions & Constraint Dynamics
-
-I apply the same lens to non-physical systems:
-- Institutions, governance, and coordination
-- Long-horizon behavior under tail risk
-- Failure modes driven by incentives, feedback loops, and asymmetric leverage
-
-The invariant question:
-> What behavior does the structure *force*, and where does it break?
+If a framework cannot clearly state *how it fails*, it is considered underconstrained.
 
 ---
 
-## 🔧 How I Work
+### 2. Identity, Conscious Access & Persistence as Stabilized Structure
 
-- **Concept-first**: structure before heavy formalism  
-- **Constraint maps** before narratives  
-- **Repo-driven thinking**: GitHub as a working lab, not a portfolio  
-- **Adversarial refinement**: elegant ideas are presumed fragile  
-- **Explicit scope control**: what a model claims, rejects, and refuses to speculate about  
+Across NCFT, SCSM/CAL, and related work, identity and conscious access are treated as:
+
+- dynamically stabilized sectors,
+- enforced by constitutive constraints (e.g. projection / boundary conditions),
+- exhibiting single-attractor, gapped behavior,
+- explicitly non-teleological and non-interpretive.
+
+Phenomenological reports are treated strictly as **constraint inputs**, not ontological claims.
+Variants admitting pluralism, gradualism, or soft enforcement are explicitly tested and rejected.
+
+No metaphysical commitments are made beyond what the constraints force.
+
+---
+
+### 3. Forced Behavior Under Tail Risk (Systems, Institutions, AI)
+
+In strategic, institutional, and AI systems, I study how:
+
+- long horizons and tail-risk dominance collapse strategy space,
+- incentives and constraints force behavior independent of intent,
+- coordination failures emerge as dynamical inevitabilities.
+
+This includes behavioral classification frameworks, AI oversight architectures, and institutional failure analysis, all treated with the same adversarial lens used in physical systems.
+
+---
+
+### 4. Physics, Spacetime & Extreme Regimes (Instrumental)
+
+Work on emergent spacetime, gravity, and warp-drive-class engineering treats:
+
+- geometry as an effective or informational structure,
+- physical laws as regime-bound approximations,
+- engineering feasibility as a constraint problem, not speculation.
+
+These projects exist to probe **where known frameworks break**, not to posit unconstrained new physics.
+
+---
+
+## 🔧 Methodology
+
+- Axiom-first modeling
+- Toy models as primary falsification tools
+- Variant-killing over variant accumulation
+- Explicit documentation of negative results
+- Scope discipline enforced in advance
+
+Elegance is treated as suspect until stress-tested.
 
 ---
 
 ## 🌱 Collaboration Fit
 
-**Best fit if you:**
-- Are comfortable with speculation under hard constraints
-- Enjoy breaking models as much as building them
-- Have strengths in formal math, simulation, or empirical testing
-- Treat AI as a serious cognitive partner with failure modes
+Strong fit if you:
+- Enjoy breaking models more than defending them
+- Are comfortable discarding elegant ideas
+- Work in formal math, simulation, or rigorous empirical analysis
+- Treat AI as a system with failure modes
 
-**Probably not a fit if you:**
-- Want validation of fixed pet theories
-- Are uncomfortable discarding ideas that fail stress tests
-- Prefer polished outputs over exploratory work
-
-Most collaboration is asynchronous via GitHub issues and PRs. Depth is prioritized over speed.
+Probably not a fit if you:
+- Seek validation of fixed theories
+- Prefer interpretive flexibility
+- Expect convergence without constraint enforcement
 
 ---
 
-## 🔬 High-Risk, High-Constraint Explorations
+## 🔬 Scope Discipline
 
-I treat anomalies the way physicists treat experimental outliers: as pressures on models, not mystical signals.
+High-risk topics are acceptable only when:
+- assumptions are explicit,
+- failure modes are enumerated,
+- and abandonment criteria are defined in advance.
 
-This includes:
-- Examining edge-case phenomenology (e.g. reported post-clinical-death memory coherence) strictly as constraints
-- Testing whether identity could behave like a conserved or protected quantity across regime changes
-- Abandoning lines of inquiry that cannot be reduced to mechanisms, constraints, or falsifiers
-
-If a path cannot be cornered, it is dropped.
+If a line of inquiry cannot be cornered, it is dropped.
