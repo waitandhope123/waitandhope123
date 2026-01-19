@@ -28,10 +28,10 @@ My main work centers on **systematically mapping where fundamental physics break
 
 My initial attempts to understand consciousness through theoretical models failed. I realized I needed a broader view of proven physics to figure out what's actually missing. This led me to:
 
-### **[GR Failure Manifold](https://github.com/waitandhope123/gr-failure-manifold)** ⭐
+### **[gr-failure-manifold](https://github.com/waitandhope123/gr-failure-manifold)** ⭐
 90 computational experiments stress-testing General Relativity through black holes, rotating spacetimes, exotic geometries, quantum fields, and observer dependencies. Maps GR as an effective theory with explicit failure boundaries.
 
-### **[QFT Failure Manifold](https://github.com/waitandhope123/qft-failure-manifold)** ⭐
+### **[qft-failure-manifold](https://github.com/waitandhope123/qft-failure-manifold)** ⭐
 100 computational experiments probing Quantum Field Theory's limits through UV/IR divergences, vacuum structure, gauge redundancy, renormalization ambiguity, and measurement theory. Treats QFT as an effective theory with well-defined boundaries.
 
 **These two projects represent where I've invested serious effort** — they're systematic, methodologically rigorous, and built to expose hidden assumptions in theories usually treated as bulletproof.
@@ -43,40 +43,40 @@ My initial attempts to understand consciousness through theoretical models faile
 Beyond the failure manifolds, I have **26+ repositories** that were initial attempts at using AI to explore interesting topics across:
 
 ### Theoretical Physics & Cosmology
-- [**Emergent Matrix Gravity**](https://github.com/waitandhope123/Emergent-Matrix-Gravity) — Quantum gravity from matrix models
-- [**Elastic Information Dynamics**](https://github.com/waitandhope123/Elastic-Information-Dynamics) — Information as fundamental substrate
-- [**WIDE**](https://github.com/waitandhope123/Wake-Inferred-Dark-Energy) — Dark energy reconstruction framework
-- [**Null Ring Chronology Bubble**](https://github.com/waitandhope123/null-ring-chronology-bubble) — Exotic GR compact objects
-- [**ESFE Warp Drive**](https://github.com/waitandhope123/esfe-warp-drive) — Entanglement-based propulsion concept
-- [**Elastic/Substrate Interpretation**](https://github.com/waitandhope123/elastic-substrate-interpretation) — Deterministic quantum mechanics framework
+- [**Emergent-Matrix-Gravity**](https://github.com/waitandhope123/Emergent-Matrix-Gravity) — Quantum gravity from matrix models
+- [**Elastic-Information-Dynamics**](https://github.com/waitandhope123/Elastic-Information-Dynamics) — Information as fundamental substrate
+- [**Wake-Inferred-Dark-Energy**](https://github.com/waitandhope123/Wake-Inferred-Dark-Energy) — Dark energy reconstruction framework
+- [**null-ring-chronology-bubble**](https://github.com/waitandhope123/null-ring-chronology-bubble) — Exotic GR compact objects
+- [**esfe-warp-drive**](https://github.com/waitandhope123/esfe-warp-drive) — Entanglement-based propulsion concept
+- [**elastic-substrate-interpretation**](https://github.com/waitandhope123/elastic-substrate-interpretation) — Deterministic quantum mechanics framework
 
 ### Consciousness & Phenomenology
-- [**NCFT**](https://github.com/waitandhope123/ncft-formal-field-theory) — Non-local consciousness field theory
-- [**RCTF**](https://github.com/waitandhope123/rctf-framework) — Relational coherence test framework
-- [**Relational Consciousness Tensor Field**](https://github.com/waitandhope123/relational-consciousness-tensor-field) — Phenomenological consciousness model
-- [**SCSM v11.2**](https://github.com/waitandhope123/SCSM-v11.2-QuantumGravityConsciousness) — Quantum gravity consciousness framework
-- [**SCSM v6.0**](https://github.com/waitandhope123/speculative-consciousness-substrate-model) — Conceptual ontology
-- [**SCSM-TQEC-Persistence**](https://github.com/waitandhope123/scsm-tqec-persistence) — Topological persistence (CLOSED)
-- [**Constraint-Mapping Atlas**](https://github.com/waitandhope123/post-scsm-obstruction-atlas) — Fundamental consciousness impossibility proofs
-- [**Conscious Access Landscape**](https://github.com/waitandhope123/conscious-access-landscape) — Phenomenological access regimes
-- [**Consciousness-Substrate Brane Theory**](https://github.com/waitandhope123/consciousness-substrate-brane) — Multi-layer reality model
-- [**Living-System Discrimination Hypothesis**](https://github.com/waitandhope123/living-system-discrimination-hypothesis) — Preregistered empirical test
+- [**ncft-formal-field-theory**](https://github.com/waitandhope123/ncft-formal-field-theory) — Non-local consciousness field theory
+- [**rctf-framework**](https://github.com/waitandhope123/rctf-framework) — Relational coherence test framework
+- [**relational-consciousness-tensor-field**](https://github.com/waitandhope123/relational-consciousness-tensor-field) — Phenomenological consciousness model
+- [**SCSM-v11.2-QuantumGravityConsciousness**](https://github.com/waitandhope123/SCSM-v11.2-QuantumGravityConsciousness) — Quantum gravity consciousness framework
+- [**speculative-consciousness-substrate-model**](https://github.com/waitandhope123/speculative-consciousness-substrate-model) — Conceptual ontology
+- [**scsm-tqec-persistence**](https://github.com/waitandhope123/scsm-tqec-persistence) — Topological persistence (CLOSED)
+- [**post-scsm-obstruction-atlas**](https://github.com/waitandhope123/post-scsm-obstruction-atlas) — Fundamental consciousness impossibility proofs
+- [**conscious-access-landscape**](https://github.com/waitandhope123/conscious-access-landscape) — Phenomenological access regimes
+- [**consciousness-substrate-brane**](https://github.com/waitandhope123/consciousness-substrate-brane) — Multi-layer reality model
+- [**living-system-discrimination-hypothesis**](https://github.com/waitandhope123/living-system-discrimination-hypothesis) — Preregistered empirical test
 
 ### AI Systems & Governance
-- [**Tri-Layer AI Oversight**](https://github.com/waitandhope123/tri-layer-ai-architecture) — Cooperative AI architecture
-- [**Institutional AI Reference**](https://github.com/waitandhope123/institutional-ai-reference) — Defensive AI governance
+- [**tri-layer-ai-architecture**](https://github.com/waitandhope123/tri-layer-ai-architecture) — Cooperative AI architecture
+- [**institutional-ai-reference**](https://github.com/waitandhope123/institutional-ai-reference) — Defensive AI governance
 
 ### Analytical Frameworks
-- [**SBTR**](https://github.com/waitandhope123/sbtr-framework) — Strategic behavior under tail risk
-- [**BEAT Framework**](https://github.com/waitandhope123/beat-framework) — State stability diagnostics
-- [**Influence Risk Engine**](https://github.com/waitandhope123/influence-risk-engine) — Geopolitical influence modeling
-- [**SEED**](https://github.com/waitandhope123/constraint-first-contact-model) — Constraint-first contact model
-- [**UAP Analysis**](https://github.com/waitandhope123/unidentified-aerial-reports-analysis) — Statistical analysis of aerial phenomena reports
+- [**sbtr-framework**](https://github.com/waitandhope123/sbtr-framework) — Strategic behavior under tail risk
+- [**beat-framework**](https://github.com/waitandhope123/beat-framework) — State stability diagnostics
+- [**influence-risk-engine**](https://github.com/waitandhope123/influence-risk-engine) — Geopolitical influence modeling
+- [**constraint-first-contact-model**](https://github.com/waitandhope123/constraint-first-contact-model) — Constraint-first contact model
+- [**unidentified-aerial-reports-analysis**](https://github.com/waitandhope123/unidentified-aerial-reports-analysis) — Statistical analysis of aerial phenomena reports
 
 ### Other Explorations
-- [**Sintercite Hypothesis**](https://github.com/waitandhope123/sintercite) — Mineral-based protocells
-- [**Veydra**](https://github.com/waitandhope123/veydra) — EV-native vehicle design
-- [**Excellence By Design**](https://github.com/waitandhope123/excellence-by-design-strategy) — Organizational culture framework
+- [**sintercite**](https://github.com/waitandhope123/sintercite) — Mineral-based protocells
+- [**veydra**](https://github.com/waitandhope123/veydra) — EV-native vehicle design
+- [**excellence-by-design-strategy**](https://github.com/waitandhope123/excellence-by-design-strategy) — Organizational culture framework
 
 **These projects represent learning, experimentation, and exploration** — initial attempts at using AI to investigate topics I find fascinating. They're not rigorous research programs like the failure manifolds, but they reflect my curiosity-driven approach to understanding complex systems.
 
