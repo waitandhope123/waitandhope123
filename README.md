@@ -1,180 +1,128 @@
-# 👋 About Me
+# 👋 Hi, I'm Sam DeRenzis
 
-I work on **failure-first, constraint-driven speculation about the fundamentals of the universe**.
+I explore fundamental questions about physics and consciousness through **AI-assisted research**, focusing on mapping where established theories break down.
 
-By “speculation,” I do not mean unconstrained theorizing or narrative construction.
-I mean deliberately taking existing theories — especially those regarded as settled or
-“bulletproof” — trying to break them, and using those failures as data to infer what a
-viable underlying theory would *have* to look like.
-
-I both **construct theories** and **try to destroy them**.
-
-Theory-building, for me, is instrumental:  
-new frameworks are proposed explicitly as **test objects**—designed to surface hidden
-assumptions, expose failure modes, and clarify which structures are genuinely forced.
-No theory is treated as an endpoint or protected from adversarial testing, including my own.
-
-I am not interested in defending theories.  
-I am interested in **mapping failure surfaces**, reducing unconstrained degrees of freedom,
-and identifying which structures are actually *forced* once assumptions are made explicit.
-
-This approach is applied consistently across:
-- **General Relativity and cosmology**
-- **Quantum physics**
-- **Dark matter and dark energy**
-- **Consciousness and cognition**
-- **Artificial intelligence**
-- **Theories of Everything (as limit cases)**
-- **Design refinement under evolving technologies**
-
-Across all domains, my method is invariant-first and adversarial:
-- Reduce theories or designs to minimal assumption sets
-- Localize assumptions and stress them independently
-- Actively probe for hidden, suppressed, or ignored failure modes
-- Identify regime boundaries where “robust” models rely on unstated constraints
-- Build provisional theories to test those boundaries directly
-- Map the neighborhood of failure to determine which structures are forced
-- Discard any framework that cannot clearly state how it breaks
-
-I do not treat consensus, elegance, or historical success as evidence of completeness.
-
-AI is used both as a **research subject** and as a **combinatorial adversarial tool**:
-I define failure criteria and invariants; AI accelerates counterexample generation,
-assumption audits, and model-space traversal.
+I'm working toward my degree through Sophia.org while building systematic failure manifolds that stress-test our understanding of reality.
 
 ---
 
-## 📍 Core Program: Learning by Building and Breaking
+## 🔬 My Approach
 
-### 1. Gravity, Cosmology & Gravitational Breakdown (Primary)
+I'm interested in theoretical work but rely heavily on AI to handle the mathematical heavy lifting. My workflow is collaborative:
 
-I treat **General Relativity as a regime-bound effective theory**, focusing on:
-- Singularities, horizons, and global consistency failures
-- Boundary conditions and information flow in curved spacetime
-- Regime transitions where geometric descriptions cease to be adequate
+- **ChatGPT** — Python code, quick answers, initial exploration
+- **Claude** — Detailed work, building comprehensive repositories
+- **Perplexity** — Deep reasoning when I need additional insight
 
-**Dark matter and dark energy** are treated as *failure signals*:
-indicators that standard gravitational assumptions are insufficient.
+I act as the explorer and guide, expressing curiosity about specific topics, then building up understanding through iterations. AI handles complex analysis, cross-referencing data, and finding relationships while I focus on asking the right questions and maintaining logical coherence.
 
-I both analyze existing resolutions and construct minimal alternative models to test:
-- which assumptions force DM/DE to appear,
-- which fixes merely relocate failure elsewhere,
-- and what structure survives across competing repairs.
+All my projects are built this way: I question, probe, and focus on rational approaches grounded in realism, while AI fills in my weak areas with its computational and analytical strengths.
 
 ---
 
-### 2. Quantum Physics at Its Stress Points
+## 🎯 Primary Research: Physics Failure Manifolds
 
-I study **quantum mechanics and quantum field theory** as extraordinarily successful but
-structurally incomplete frameworks.
+My main work centers on **systematically mapping where fundamental physics breaks down**.
 
-Here, theory construction is used to:
-- isolate measurement, decoherence, and observer assumptions,
-- test limits of locality, separability, and causality,
-- probe compatibility with gravitational structure.
+### Why This Focus?
 
-Constructed models are treated as disposable probes, not interpretations.
+My initial attempts to understand consciousness through theoretical models failed. I realized I needed a broader view of proven physics to figure out what's actually missing. This led me to:
 
----
+### **[GR Failure Manifold](https://github.com/waitandhope123/gr-failure-manifold)** ⭐
+90 computational experiments stress-testing General Relativity through black holes, rotating spacetimes, exotic geometries, quantum fields, and observer dependencies. Maps GR as an effective theory with explicit failure boundaries.
 
-### 3. Consciousness Modes as Constrained Dynamics (High-Risk)
+### **[QFT Failure Manifold](https://github.com/waitandhope123/qft-failure-manifold)** ⭐
+100 computational experiments probing Quantum Field Theory's limits through UV/IR divergences, vacuum structure, gauge redundancy, renormalization ambiguity, and measurement theory. Treats QFT as an effective theory with well-defined boundaries.
 
-I explore **modes of consciousness and conscious access** strictly as
-constraint-driven dynamical hypotheses.
-
-I build and test models to determine:
-- which structural assumptions are necessary for coherence,
-- which variants collapse under perturbation,
-- and which features are artifacts of underconstraint.
-
-The goal is not explanation, but **survivability under pressure**.
+**These two projects represent where I've invested serious effort** — they're systematic, methodologically rigorous, and built to expose hidden assumptions in theories usually treated as bulletproof.
 
 ---
 
-### 4. Artificial Intelligence as a Failure-Rich Cognitive System
+## 🧪 Exploratory Projects
 
-I study AI systems as **engineered cognitive processes whose behavior is forced by constraints**.
+Beyond the failure manifolds, I have **26+ repositories** that were initial attempts at using AI to explore interesting topics across:
 
-Here, theory-building takes the form of:
-- explicit models of learning, planning, and representation,
-- constructed failure cases under distribution shift,
-- architectural probes for alignment and corrigibility limits.
+### Theoretical Physics & Cosmology
+- [**Emergent Matrix Gravity**](https://github.com/waitandhope123/Emergent-Matrix-Gravity) — Quantum gravity from matrix models
+- [**Elastic Information Dynamics**](https://github.com/waitandhope123/Elastic-Information-Dynamics) — Information as fundamental substrate
+- [**WIDE**](https://github.com/waitandhope123/Wake-Inferred-Dark-Energy) — Dark energy reconstruction framework
+- [**Null Ring Chronology Bubble**](https://github.com/waitandhope123/null-ring-chronology-bubble) — Exotic GR compact objects
+- [**ESFE Warp Drive**](https://github.com/waitandhope123/esfe-warp-drive) — Entanglement-based propulsion concept
+- [**Elastic/Substrate Interpretation**](https://github.com/waitandhope123/elastic-substrate-interpretation) — Deterministic quantum mechanics framework
 
-AI systems serve both as subjects of theory and as rapid experimental platforms.
+### Consciousness & Phenomenology
+- [**NCFT**](https://github.com/waitandhope123/ncft-formal-field-theory) — Non-local consciousness field theory
+- [**RCTF**](https://github.com/waitandhope123/rctf-framework) — Relational coherence test framework
+- [**Relational Consciousness Tensor Field**](https://github.com/waitandhope123/relational-consciousness-tensor-field) — Phenomenological consciousness model
+- [**SCSM v11.2**](https://github.com/waitandhope123/SCSM-v11.2-QuantumGravityConsciousness) — Quantum gravity consciousness framework
+- [**SCSM v6.0**](https://github.com/waitandhope123/speculative-consciousness-substrate-model) — Conceptual ontology
+- [**SCSM-TQEC-Persistence**](https://github.com/waitandhope123/scsm-tqec-persistence) — Topological persistence (CLOSED)
+- [**Constraint-Mapping Atlas**](https://github.com/waitandhope123/post-scsm-obstruction-atlas) — Fundamental consciousness impossibility proofs
+- [**Conscious Access Landscape**](https://github.com/waitandhope123/conscious-access-landscape) — Phenomenological access regimes
+- [**Consciousness-Substrate Brane Theory**](https://github.com/waitandhope123/consciousness-substrate-brane) — Multi-layer reality model
+- [**Living-System Discrimination Hypothesis**](https://github.com/waitandhope123/living-system-discrimination-hypothesis) — Preregistered empirical test
 
----
+### AI Systems & Governance
+- [**Tri-Layer AI Oversight**](https://github.com/waitandhope123/tri-layer-ai-architecture) — Cooperative AI architecture
+- [**Institutional AI Reference**](https://github.com/waitandhope123/institutional-ai-reference) — Defensive AI governance
 
-### 5. Theories of Everything as Boundary Objects
+### Analytical Frameworks
+- [**SBTR**](https://github.com/waitandhope123/sbtr-framework) — Strategic behavior under tail risk
+- [**BEAT Framework**](https://github.com/waitandhope123/beat-framework) — State stability diagnostics
+- [**Influence Risk Engine**](https://github.com/waitandhope123/influence-risk-engine) — Geopolitical influence modeling
+- [**SEED**](https://github.com/waitandhope123/constraint-first-contact-model) — Constraint-first contact model
+- [**UAP Analysis**](https://github.com/waitandhope123/unidentified-aerial-reports-analysis) — Statistical analysis of aerial phenomena reports
 
-I engage with **Theories of Everything** only by constructing and dismantling them.
+### Other Explorations
+- [**Sintercite Hypothesis**](https://github.com/waitandhope123/sintercite) — Mineral-based protocells
+- [**Veydra**](https://github.com/waitandhope123/veydra) — EV-native vehicle design
+- [**Excellence By Design**](https://github.com/waitandhope123/excellence-by-design-strategy) — Organizational culture framework
 
-Rather than aiming for total unification, I use ToE-like models to test:
-- which assumptions unification attempts must share,
-- where gravity, quantum theory, cognition, and information diverge,
-- whether any invariant structure survives across non-coextensive domains.
-
-A theory that cannot specify its own failure surface is rejected as underconstrained.
-
----
-
-### 6. Design Refinement Under Evolving Technology
-
-In parallel, I refine **designs and architectures** by building and stress-testing
-candidate solutions under current technological constraints.
-
-Designs are treated as theories with implementation:
-they are proposed, attacked, simplified, and either discarded or hardened.
-
----
-
-## 🔧 Methodological Commitments
-
-- Failure-first reasoning
-- Assumption-local analysis
-- Theory construction as adversarial probing
-- Aggressive testing of “settled” or canonical models
-- Toy models and minimal counterexamples
-- Explicit documentation of negative results
-- Variant-killing over variant accumulation
-- Scope discipline enforced in advance
-
-**Progress is measured by constraint reduction**:
-fewer hidden assumptions, sharper failure boundaries,
-and a smaller space of surviving models.
+**These projects represent learning, experimentation, and exploration** — initial attempts at using AI to investigate topics I find fascinating. They're not rigorous research programs like the failure manifolds, but they reflect my curiosity-driven approach to understanding complex systems.
 
 ---
 
-## 🧠 Archived Work
+## 🧠 My Philosophy
 
-All other repositories are archived.
+I work **failure-first**: I deliberately try to break theories to understand what structures are actually forced by constraints. I build provisional models to test boundaries, map failure surfaces, and identify which assumptions are hidden or suppressed.
 
-They remain as **methodological lineage**, reflecting earlier explorations that informed
-my approach to constraint mapping, failure manifolds, and adversarial testing.
-They are not active research commitments.
+I don't treat my models as truths to defend — they're disposable probes designed to surface what's genuinely necessary versus what's arbitrary.
+
+Progress means **fewer hidden assumptions** and **sharper failure boundaries**.
 
 ---
 
-## 🌱 Collaboration Fit
+## 🌱 Interests Beyond Physics
 
-Strong fit if you:
-- Enjoy both building and breaking theories
-- Treat your own models as disposable
+When I'm not mapping failure manifolds, I enjoy:
+- **K-dramas** and **anime**
+- **Sci-fi** and paranormal topics
+- **Python** programming
+- **Photography**
+- **Cats**
+- **Music** (Spotify enthusiast)
+
+---
+
+## 🤝 Collaboration
+
+I'm a good fit if you:
+- Enjoy building **and** breaking theories
 - See failure as information, not embarrassment
-- Prefer adversarial rigor over narrative elegance
+- Value AI as a collaborative tool for exploration
+- Prefer rigorous constraint-mapping over narrative elegance
 
 Probably not a fit if you:
-- Seek to defend a favored framework
+- Want to defend a favored framework
 - Treat theory construction as an act of belief
-- Prefer metaphysical closure over structural clarity
 - Expect foundational theories to be immune to stress
 
 ---
 
-## 🔬 Scope Discipline
+## 📫 Connect
 
-I pursue theory or design only when:
-- assumptions are explicit,
-- failure modes are enumerated,
-- and abandonment criteria are defined in advance.
+Feel free to explore my repos, open issues with critiques, or reach out if you're interested in collaborative failure-mapping!
 
-If a line of inquiry cannot be cornered, it is dropped.
+---
+
+*"The best way to understand a theory is to try to break it."*
