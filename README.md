@@ -28,13 +28,23 @@ My main work centers on **systematically mapping where fundamental physics break
 
 My initial attempts to understand consciousness through theoretical models failed. I realized I needed a broader view of proven physics to figure out what's actually missing. This led me to:
 
+### **[gr-qft-theory-boundaries](https://github.com/waitandhope123/gr-qft-theory-boundaries)** ⭐⭐ NEW
+**Unified epistemic analysis** combining 190 computational experiments (100 QFT + 90 GR) through a rigorous three-track framework:
+- **Track 1**: Immutable factual baseline (what the data explicitly shows)
+- **Track 2**: Clearly labeled speculation (pattern interpretations with alternatives)
+- **Track 3**: Contextual comparison with physics literature (correspondence, not validation)
+
+Maps QFT and GR as effective theories while maintaining strict epistemic boundaries between observation, interpretation, and context. Demonstrates that computational physics can be analyzed with methodological clarity.
+
 ### **[gr-failure-manifold](https://github.com/waitandhope123/gr-failure-manifold)** ⭐
 90 computational experiments stress-testing General Relativity through black holes, rotating spacetimes, exotic geometries, quantum fields, and observer dependencies. Maps GR as an effective theory with explicit failure boundaries.
 
 ### **[qft-failure-manifold](https://github.com/waitandhope123/qft-failure-manifold)** ⭐
 100 computational experiments probing Quantum Field Theory's limits through UV/IR divergences, vacuum structure, gauge redundancy, renormalization ambiguity, and measurement theory. Treats QFT as an effective theory with well-defined boundaries.
 
-**These two projects represent where I've invested serious effort** — they're systematic, methodologically rigorous, and built to expose hidden assumptions in theories usually treated as bulletproof.
+**These projects represent where I've invested serious effort** — they're systematic, methodologically rigorous, and built to expose hidden assumptions in theories usually treated as bulletproof.
+
+The **gr-qft-theory-boundaries** project represents the next evolution: taking the raw failure data and analyzing it through distinct epistemic lenses to separate what we know (facts), what we might infer (speculation), and how it relates to broader physics (context).
 
 ---
 
@@ -88,7 +98,12 @@ I work **failure-first**: I deliberately try to break theories to understand wha
 
 I don't treat my models as truths to defend — they're disposable probes designed to surface what's genuinely necessary versus what's arbitrary.
 
-Progress means **fewer hidden assumptions** and **sharper failure boundaries**.
+**New development**: I now distinguish between three epistemic modes:
+- **Facts** (what the data explicitly shows) - immutable
+- **Speculation** (pattern interpretations) - clearly labeled with alternatives
+- **Context** (how findings relate to existing knowledge) - comparative, not validating
+
+Progress means **fewer hidden assumptions**, **sharper failure boundaries**, and **clearer epistemic distinctions**.
 
 ---
 
@@ -111,11 +126,13 @@ I'm a good fit if you:
 - See failure as information, not embarrassment
 - Value AI as a collaborative tool for exploration
 - Prefer rigorous constraint-mapping over narrative elegance
+- Appreciate epistemic clarity (facts vs speculation vs context)
 
 Probably not a fit if you:
 - Want to defend a favored framework
 - Treat theory construction as an act of belief
 - Expect foundational theories to be immune to stress
+- Mix observation with interpretation without labeling
 
 ---
 
@@ -125,4 +142,4 @@ Feel free to explore my repos, open issues with critiques, or reach out if you'r
 
 ---
 
-*"The best way to understand a theory is to try to break it."*
+*"The best way to understand a theory is to try to break it — then carefully separate what you observed from what you inferred."*
