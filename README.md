@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Sam DeRenzis
 
+Note: I will be re-doing the entire analysis of GR and QFT failure points but it will take awhile. Originally I planned them seperately but have now come to the conclusion I require at least 150 toy models of various kinds to properly map their manifolds and that it must be done in tandem. This should let me see where they fail and why giving us an idea of what's there or not.
+
 I explore fundamental questions about physics and consciousness through **AI-assisted research**, focusing on mapping where established theories break down.
 
 I'm working toward my degree through Sophia.org while building systematic failure manifolds that stress-test our understanding of reality.
@@ -27,12 +29,6 @@ My main work centers on **systematically mapping where fundamental physics break
 ### Why This Focus?
 
 My initial attempts to understand consciousness through theoretical models failed. I realized I needed a broader view of proven physics to figure out what's actually missing. This led me to:
-
-### **[gr-qft-theory-boundaries](https://github.com/waitandhope123/gr-qft-theory-boundaries)** ⭐⭐ NEW
-**Unified epistemic analysis** combining 190 computational experiments (100 QFT + 90 GR) through a rigorous three-track framework:
-- **Track 1**: Immutable factual baseline (what the data explicitly shows)
-- **Track 2**: Clearly labeled speculation (pattern interpretations with alternatives)
-- **Track 3**: Contextual comparison with physics literature (correspondence, not validation)
 
 Maps QFT and GR as effective theories while maintaining strict epistemic boundaries between observation, interpretation, and context. Demonstrates that computational physics can be analyzed with methodological clarity.
 
