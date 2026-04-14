@@ -1,46 +1,49 @@
 # 👋 Hi, I'm Sam DeRenzis
 
-Note: I will be re-doing the entire analysis of GR and QFT failure points but it will take awhile. Originally I planned them seperately but have now come to the conclusion I require at least 150 toy models of various kinds to properly map their manifolds and that it must be done in tandem. This should let me see where they fail and why giving us an idea of what's there or not.
+I map where physics breaks down — systematically, computationally, and with methodological rigor — using AI as a collaborative research partner.
 
-I explore fundamental questions about physics and consciousness through **AI-assisted research**, focusing on mapping where established theories break down.
+My current focus is a multi-framework failure boundary pipeline that stress-tests General Relativity, Quantum Field Theory, and thermodynamics simultaneously, mapping the 3D geometric surfaces in parameter space where each framework fails. The core finding driving this work: there exists a **shared failure region** where all three frameworks break down simultaneously. That region shouldn't exist if the frameworks fail independently. It suggests something is missing underneath all of them.
 
-I'm working toward my degree through Sophia.org while building systematic failure manifolds that stress-test our understanding of reality.
-
----
-
-## 🔬 My Approach
-
-I'm interested in theoretical work but rely heavily on AI to handle the mathematical heavy lifting. My workflow is collaborative:
-
-- **ChatGPT** — Python code, quick answers, initial exploration
-- **Claude** — Detailed work, building comprehensive repositories
-- **Perplexity** — Deep reasoning when I need additional insight
-
-I act as the explorer and guide, expressing curiosity about specific topics, then building up understanding through iterations. AI handles complex analysis, cross-referencing data, and finding relationships while I focus on asking the right questions and maintaining logical coherence.
-
-All my projects are built this way: I question, probe, and focus on rational approaches grounded in realism, while AI fills in my weak areas with its computational and analytical strengths.
+This work is built entirely through AI collaboration over a period of weeks — an approach that compresses what would normally be years of research group effort into a fraction of the time, without sacrificing methodological rigor.
 
 ---
 
-## 🎯 Primary Research: Physics Failure Manifolds
+## 🔬 Current Research: Shared Failure Geometry
 
-My main work centers on **systematically mapping where fundamental physics breaks down**.
+The active project uses an adaptive sampling pipeline to map failure boundaries across three independent physics frameworks:
 
-### Why This Focus?
+- **GR** — spacetime geometry consistency
+- **QFT** — quantum field theoretic validity
+- **Thermodynamics** — entropy and state consistency
 
-My initial attempts to understand consciousness through theoretical models failed. I realized I needed a broader view of proven physics to figure out what's actually missing. This led me to:
+Each framework produces its own 3D boundary surface in (log E, log R, log T) parameter space. The pipeline then maps where all three surfaces intersect — the shared failure zone. The goal is to demonstrate this zone is geometrically coherent, robust across parameter perturbations, and cannot be explained by any single framework's breakdown alone.
 
-Maps QFT and GR as effective theories while maintaining strict epistemic boundaries between observation, interpretation, and context. Demonstrates that computational physics can be analyzed with methodological clarity.
+If the argument holds, it forces a specific question: what field or structure underlies all three frameworks simultaneously, such that they all fail in the same place?
 
-### **[gr-failure-manifold](https://github.com/waitandhope123/gr-failure-manifold)** ⭐
-90 computational experiments stress-testing General Relativity through black holes, rotating spacetimes, exotic geometries, quantum fields, and observer dependencies. Maps GR as an effective theory with explicit failure boundaries.
+**Technical approach:** Adaptive IDW interpolation with multi-resolution convergence, per-channel failure scoring, geometric surface extraction via marching cubes, robustness testing across calibration perturbations, and holdout validation. The pipeline is designed so every major objection has been computationally addressed before publication.
 
-### **[qft-failure-manifold](https://github.com/waitandhope123/qft-failure-manifold)** ⭐
-100 computational experiments probing Quantum Field Theory's limits through UV/IR divergences, vacuum structure, gauge redundancy, renormalization ambiguity, and measurement theory. Treats QFT as an effective theory with well-defined boundaries.
+### Earlier Work
 
-**These projects represent where I've invested serious effort** — they're systematic, methodologically rigorous, and built to expose hidden assumptions in theories usually treated as bulletproof.
+**[gr-failure-manifold](https://github.com/waitandhope123/gr-failure-manifold)** — 90 experiments stress-testing GR through black holes, rotating spacetimes, exotic geometries, and observer dependencies.
 
-The **gr-qft-theory-boundaries** project represents the next evolution: taking the raw failure data and analyzing it through distinct epistemic lenses to separate what we know (facts), what we might infer (speculation), and how it relates to broader physics (context).
+**[qft-failure-manifold](https://github.com/waitandhope123/qft-failure-manifold)** — 100 experiments probing QFT limits through UV/IR divergences, vacuum structure, gauge redundancy, and renormalization ambiguity.
+
+These established the individual framework boundaries. The current work asks what happens where they all fail together.
+
+---
+
+## 🧠 My Philosophy
+
+**Failure-first.** I deliberately try to break theories to understand what's actually forced by constraints versus what's arbitrary assumption. Models are disposable probes, not frameworks to defend.
+
+**Epistemic clarity.** I maintain strict separation between:
+- **Facts** — what the data explicitly shows
+- **Speculation** — pattern interpretations, clearly labeled with alternatives
+- **Context** — how findings relate to existing knowledge
+
+**AI as genuine collaborator.** Not a code generator. The diagnostic reasoning, structural debugging, and iterative refinement in this work are genuinely collaborative — the kind of process that catches the flaws a human researcher would take months to find.
+
+The publication strategy is deliberate: iterate until the AI systems themselves can find no remaining faults, then publish a complete argument rather than incremental papers. The goal is a result that forces engagement rather than invites dismissal.
 
 ---
 
@@ -85,21 +88,6 @@ Beyond the failure manifolds, I have **26+ repositories** that were initial atte
 - [**excellence-by-design-strategy**](https://github.com/waitandhope123/excellence-by-design-strategy) — Organizational culture framework
 
 **These projects represent learning, experimentation, and exploration** — initial attempts at using AI to investigate topics I find fascinating. They're not rigorous research programs like the failure manifolds, but they reflect my curiosity-driven approach to understanding complex systems.
-
----
-
-## 🧠 My Philosophy
-
-I work **failure-first**: I deliberately try to break theories to understand what structures are actually forced by constraints. I build provisional models to test boundaries, map failure surfaces, and identify which assumptions are hidden or suppressed.
-
-I don't treat my models as truths to defend — they're disposable probes designed to surface what's genuinely necessary versus what's arbitrary.
-
-**New development**: I now distinguish between three epistemic modes:
-- **Facts** (what the data explicitly shows) - immutable
-- **Speculation** (pattern interpretations) - clearly labeled with alternatives
-- **Context** (how findings relate to existing knowledge) - comparative, not validating
-
-Progress means **fewer hidden assumptions**, **sharper failure boundaries**, and **clearer epistemic distinctions**.
 
 ---
 
