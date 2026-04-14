@@ -4,7 +4,7 @@ I map where physics breaks down — systematically, computationally, and with me
 
 My current focus is a multi-framework failure boundary pipeline that stress-tests General Relativity, Quantum Field Theory, and thermodynamics simultaneously, mapping the 3D geometric surfaces in parameter space where each framework fails. The core finding driving this work: there exists a **shared failure region** where all three frameworks break down simultaneously. That region shouldn't exist if the frameworks fail independently. It suggests something is missing underneath all of them.
 
-This work is built entirely through AI collaboration over a period of weeks — an approach that compresses what would normally be years of research group effort into a fraction of the time, without sacrificing methodological rigor.
+This work is built entirely through AI collaboration — an approach that compresses what would normally be years of research group effort into a fraction of the time, without sacrificing methodological rigor.
 
 ---
 
